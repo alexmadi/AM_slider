@@ -1,0 +1,44 @@
+// Colors
+
+$white:#fff;
+$blue_01:#666d89;
+$grey_01:#f0d8d9;
+$red_01:#f48c8f;
+
+$blue:#303441;
+$grey:#f2f2f2;
+$red:#eb5055;
+$red_02:#ca4549;
+
+// Font Colors
+
+$nav_link_color:$white;
+
+$main_color:$blue_01;
+
+$contact_us_color:$grey_01;
+
+$placeholder_color:$red_01;
+
+// Bg Colors
+
+$header_bg:$blue;
+$portfolio_bg:$blue;
+$footer_bg:$blue;
+
+$company_info_bg:$grey;
+$services_bg:$grey;
+
+$slider_bg:$red;
+$contact_us_bg:$red;
+
+$input_bg:$red_02;
+
+// Font Sizes
+
+$font_lato:'Lato', sans-serif;
+$main_font_family:$font_lato;
+
+$main_font:18px/#{30px} $main_font_family;
+$small_font:12px/#{21px} $main_font_family;
+$title_font:30px/#{18px} $main_font_family;
